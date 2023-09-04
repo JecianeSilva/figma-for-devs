@@ -1,6 +1,6 @@
 <div align="center">
 	<h2>Ignite - Acessibilidade com ReactJs </h2>
-	<p>Projeto desenvolvido usando NextJs e ReactJs no curso de Acessibilidade disponivel pela  da <a href="https://lp.rocketseat.com.br/programas-rocketseat" alt="Rocketseat">Rocketseat</a>.</p>
+	<p>Projeto desenvolvido durante o curso de Figma for devs, disponivel pela  da <a href="https://lp.rocketseat.com.br/programas-rocketseat" alt="Rocketseat">Rocketseat</a>.</p>
     <img width="300" src="https://global-uploads.webflow.com/61d83a2ebb0ae01ab96e841a/637521f7147238b27a90f0fa_pack-cursos-rocketseat.webp" alt="Banner Cursos Exclusivos da Rocketseat"/>
 </div>
 
